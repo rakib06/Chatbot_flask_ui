@@ -4,6 +4,9 @@ This is a short tutorial to show how I create a chatbot on my local server using
 ## Set up
 ### Rasa Set up
 ```
+virtualenv venv36 -p "C:\Program Files\Python36\python.exe" 
+# 64 bit python 
+
 mkdir rasa
 cd rasa
 ```
